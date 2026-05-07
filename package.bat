@@ -16,6 +16,6 @@ python -m PyInstaller autoclicker_gui.py ^
 
 echo [3/3] Done!
 echo.
-echo  Output: dist\AutoClicker.exe
+echo  Output: dist\FastAutoClicker.exe
 echo.
 pause
